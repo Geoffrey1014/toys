@@ -1,7 +1,7 @@
 ##Deterministic Finite Automaton，DFA
 ##3.1 确定性有限自动机
 ##python 3.4.1
-
+######### HWG修改
 class FARule(object):
     def __init__(self, state, character, next_state):
         self.state = state
